@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_channel">TRACK LOCATION</string>
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location reported</item>
+        <item quantity="one">One location reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+    <string name="unknown_location">Unknown location</string>
+    <string name="default_notification_channel_id">Map Notification</string>
+</resources>
